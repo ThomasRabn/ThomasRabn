@@ -28,7 +28,6 @@
 <img align="left" height="26px" alt="Wireshark" src="images/wireshark.png">
 <img align="left" height="26px" alt="Photoshop" src="images/photoshop.png">
 
-<br>
 
 ### Operating Systems
 
