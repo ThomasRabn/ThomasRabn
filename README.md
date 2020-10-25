@@ -30,8 +30,8 @@
 <br>
 <br>
 
-## Operating Systems
+### Operating Systems
 
-- <img align="left" height="26px" alt="Windows" src="images/windows.png"> Windows 
-- <img align="left" height="26px" alt="Linux" src="images/linux.png"> Linux (Main distribution: <img align="left" height="26px" alt="Ubuntu" src="images/ubuntu.png"> Ubuntu)
-- <img align="left" height="26px" alt="Android" src="images/android.png"> Android
+- <img align="left" height="18px" alt="Windows" src="images/windows.png"> Windows 
+- <img align="left" height="18px" alt="Linux" src="images/linux.png"> Linux (Main distribution: <img height="18px" alt="Ubuntu" src="images/ubuntu.png"> Ubuntu)
+- <img align="left" height="18px" alt="Android" src="images/android.png"> Android
