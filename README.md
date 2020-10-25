@@ -8,7 +8,7 @@
 - 📫 You can reach me on this email address: thomas.rabian@protonmail.com
 - ⚡ Fun fact: I play drums... Yeah, it's not really fun...
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" height="26px" alt="Visual Studio Code" src="images/vscode.png">
 <img align="left" height="26px" alt="HTML5" src="images/html.png">
